@@ -11,7 +11,7 @@ print(int(input("Digite o primeiro número: ")) + int(input("Digite o segundo n�
 nome = str(input("digite o seu nome: "))
 num_nome = len(nome)
 
-print(num_nome)
+print(f"o seu nome tem {num_nome} letras")
 
 
 #Exercício 04 - Declaração e atribuições de variavéis
